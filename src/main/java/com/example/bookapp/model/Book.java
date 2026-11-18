@@ -38,6 +38,3 @@ public class Book {
     public void setCategory(Category category) { this.category = category; }
 }
 
-enum Category {
-    FICTION, SCIENCE, TECHNOLOGY, HISTORY, BIOGRAPHY
-}
